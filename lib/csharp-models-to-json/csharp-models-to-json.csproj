@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6</TargetFramework>
-    <NoWarn>$(NoWarn);NU1503</NoWarn>
+    <NoWarn>true</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>
